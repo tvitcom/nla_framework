@@ -2,9 +2,9 @@ package templates
 
 import (
 	"fmt"
-	"github.com/pepelazz/nla_framework/templates/tmplGenerateStep2"
-	"github.com/pepelazz/nla_framework/types"
-	"github.com/pepelazz/nla_framework/utils"
+	"github.com/tvitcom/nla_framework/templates/tmplGenerateStep2"
+	"github.com/tvitcom/nla_framework/types"
+	"github.com/tvitcom/nla_framework/utils"
 	"strings"
 	"text/template"
 )

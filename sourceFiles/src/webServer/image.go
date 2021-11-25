@@ -8,7 +8,7 @@ import (
 	"github.com/muesli/smartcrop/nfnt"
 	"github.com/nfnt/resize"
 	"github.com/oklog/ulid"
-	"github.com/pepelazz/nla_framework/utils"
+	"github.com/tvitcom/nla_framework/utils"
 	"image"
 	"image/gif"
 	"image/jpeg"

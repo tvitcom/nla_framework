@@ -3,8 +3,8 @@ package templates
 import (
 	"fmt"
 	"github.com/iancoleman/strcase"
-	"github.com/pepelazz/nla_framework/types"
-	"github.com/pepelazz/nla_framework/utils"
+	"github.com/tvitcom/nla_framework/types"
+	"github.com/tvitcom/nla_framework/utils"
 	"github.com/serenize/snaker"
 	"log"
 	"text/template"
